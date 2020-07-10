@@ -1,3 +1,7 @@
+html,
+body,
+#main {width:100%;}
+
 .title {
     color: #02ccba;
     
